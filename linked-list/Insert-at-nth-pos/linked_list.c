@@ -1,4 +1,4 @@
-// Linked List: Inserting a Node at beginning
+// Linked List: Inserting a Node at nth position
 #include <stdio.h>
 #include <stdlib.h>
 
